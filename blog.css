@@ -104,3 +104,20 @@ main {
     text-align: center;
 
 }
+.skills-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.skill {
+    padding: 30px;
+    text-align: justify;
+
+}
+.image-size {
+    height: 40px;
+    width: 40px;
+}
+#what-do {
+    padding: 30px 150px;
+}
